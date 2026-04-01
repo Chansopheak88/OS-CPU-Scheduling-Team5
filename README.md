@@ -27,7 +27,7 @@ A terminal-based Python simulator for five classic CPU scheduling algorithms. En
 ## Usage
 
 ```bash
-python scheduler.py
+python cpu_scheduling.py
 ```
 
 You will be presented with a menu:
